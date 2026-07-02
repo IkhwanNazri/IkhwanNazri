@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ikhwan-nazri-portfolio.netlify.app/](https://ikhwan-nazri-portfolio.netlify.app/)
 
-- 💬 Ask me about **Laravel , PHP ,Mysql ,tailwind**
+- 💬 Ask me about **Laravel ,Vue js , PHP ,Mysql ,tailwind**
 
 - 📫 How to reach me **ikhwannazri0608@gmail.com**
 
