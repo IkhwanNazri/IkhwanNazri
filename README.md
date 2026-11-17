@@ -7,8 +7,8 @@
 
 - 🏛️ Developer at **Kementerian Perpaduan Negara**
 - 🚀 Projects:
-  - [Persidangan Pembinaan Negara Bangsa](https://negarabangsa.perpaduan.gov.my/): event registration system
-  - Sistem Pegawai Bertugas KPN (internal system)
+  - [Persidangan Pembinaan Negara Bangsa ](https://negarabangsa.perpaduan.gov.my/): Event Registration System
+  - Sistem Pegawai Bertugas Kementerian Perpaduan Negara (Internal System)
   - [Pusat Tuisyen Akademik Terbilang](https://www.tuisyenakademikterbilang.com/)
 - 🌱 Currently learning **Flutter**
 - 👨‍💻 Portfolio: [ikhwan-nazri-portfolio.netlify.app](https://ikhwan-nazri-portfolio.netlify.app/)
